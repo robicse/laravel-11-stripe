@@ -1,0 +1,21 @@
+Create project 
+composer create-project "laravel/laravel:^11.0" laravel-11-stripe
+php artisan make:controller StripeController
+
+Bootstrap 5
+https://www.w3schools.com/bootstrap5/bootstrap_get_started.php
+
+
+Stripe docs
+https://docs.stripe.com/js
+
+
+Stripe account
+https://dashboard.stripe.com/test/dashboard
+
+
+Github stripe
+https://github.com/stripe/stripe-php
+
+
+composer require stripe/stripe-php
